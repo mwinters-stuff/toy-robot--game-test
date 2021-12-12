@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 docker build  -t robot-game .devcontainer/
 
 docker run \

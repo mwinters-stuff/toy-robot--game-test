@@ -8,7 +8,7 @@
       "type": "lldb",
       "request": "launch",
       "name": "Debug",
-      "program": "${workspaceFolder}/build/robot-test",
+      "program": "${workspaceFolder}/build/toy-robot-game-tests",
       "args": [],
       "cwd": "${workspaceFolder}"
     },
@@ -16,7 +16,7 @@
       "type": "lldb",
       "request": "launch",
       "name": "Debug Tests",
-      "program": "${workspaceFolder}/build/robot-test-tests",
+      "program": "${workspaceFolder}/build/toy-robot-game-tests",
       "args": [],
       "cwd": "${workspaceFolder}"
     }

@@ -13,6 +13,12 @@ To build and run in docker, the following scripts can be used.
 ./run-game-in-docker.sh
 ./run-tests-in-docker.sh
 ```
+If running windows, and docker-desktop is installed to use WSL2, the following scripts can be used
+```
+./build-in-docker.cmd
+./run-game-in-docker.cmd
+./run-tests-in-docker.cmd
+```
 
 ### Linux
 

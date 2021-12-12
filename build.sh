@@ -1,5 +1,4 @@
-#!/bin/bash
-
+#!/usr/bin/env bash
 mkdir build
 cmake --no-warn-unused-cli \
   -DCMAKE_EXPORT_COMPILE_COMMANDS:BOOL=TRUE \
