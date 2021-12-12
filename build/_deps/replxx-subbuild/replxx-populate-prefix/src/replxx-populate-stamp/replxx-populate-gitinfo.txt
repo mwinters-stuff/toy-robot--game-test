@@ -1,3 +1,0 @@
-repository='https://github.com/AmokHuginnsson/replxx.git'
-module=''
-tag='origin'
