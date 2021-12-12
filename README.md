@@ -1,3 +1,5 @@
+[![CMake](https://github.com/mwinters-stuff/toy-robot-game-test/actions/workflows/cmake.yml/badge.svg)](https://github.com/mwinters-stuff/toy-robot-game-test/actions/workflows/cmake.yml)
+
 # toy-robot-game-test
 
 ## Build Instructions
