@@ -20,6 +20,14 @@ If running windows, and docker-desktop is installed to use WSL2, the following s
 ./run-tests-in-docker.cmd
 ```
 
+### Windows - Native in Visual Studio Code (Community)
+
+Tested with Visual Studio Code Community edition, with Git for Windows installed.
+1. Clone the project in Visual Studio Comminuty.
+2. Allow CMake to confgure.
+3. Select run target.
+4. Run.
+
 ### Linux
 
 ```
